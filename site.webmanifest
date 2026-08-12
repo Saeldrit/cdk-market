@@ -1,0 +1,16 @@
+{
+  "name": "KEYMARKET",
+  "short_name": "KEYMARKET",
+  "description": "Premium AI CDK Marketplace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141310",
+  "theme_color": "#141310",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
